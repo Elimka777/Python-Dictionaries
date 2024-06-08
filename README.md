@@ -4,7 +4,7 @@
 
 *Student: Elima*
 
-This assignment contains of 3 main applications:
+This assignment consists of 4 main applications:
 1. Real-World Python Dictionary Applications - I practice updating a restaurant menu by adding, changing, and removing items. This helps me understand how to work with complex data in a simple way.
 2. Advanced Data Handling with Python - I work on real-world tasks that involve using dictionaries and nested collections, and I create your my functions to process data.
 3. Python Programming Challenges for Customer Service Data Handling - I practice fixing code, organizing customer information, and creating a feedback system using dictionaries.
