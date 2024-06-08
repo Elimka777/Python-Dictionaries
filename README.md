@@ -1,5 +1,7 @@
 # ⁘⁘⁘ Assignments: Python Dictionaries ⁘⁘⁘
 
+☆*: .｡. o(≧▽≦)o .｡.:☆☆: .｡. o(≧▽≦)o .｡.:☆☆: .｡. o(≧▽≦)o .｡.:☆☆: .｡. o(≧▽≦)o .｡.:☆☆: .｡. o(≧▽≦)o .｡.:*☆
+
 Student: Elima
 
 This assignment consists of 4 main applications:
