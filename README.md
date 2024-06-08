@@ -1,8 +1,6 @@
 # ⁘⁘⁘ Assignments: Python Dictionaries ⁘⁘⁘
 
-☆*: .｡. o(≧▽≦)o .｡.:*☆☆*: .｡. o(≧▽≦)o .｡.:*☆☆*: .｡. o(≧▽≦)o .｡.:*☆☆*: .｡. o(≧▽≦)o .｡.:*☆☆*: .｡. o(≧▽≦)o .｡.:*☆
-
-*Student: Elima*
+Student: Elima
 
 This assignment consists of 4 main applications:
 1. Real-World Python Dictionary Applications - I practiced updating a restaurant menu by adding, changing, and removing items. This helped me understand how to work with complex data in a simple way.
